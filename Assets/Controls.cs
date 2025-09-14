@@ -148,7 +148,7 @@ public partial class @Controls: IInputActionCollection2, IDisposable
                 {
                     ""name"": """",
                     ""id"": ""7cbb74cf-09a8-46c9-9b06-6df8eda2468a"",
-                    ""path"": ""<Keyboard>/space"",
+                    ""path"": ""<Keyboard>/upArrow"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
