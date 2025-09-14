@@ -2,7 +2,7 @@
 Two soldiers must work together to solve the puzzles and challenges to collect all 3 Saudi National Day brooches before the timer runs out.
 
 ## How to Play
-- Player 1: Arrow keys to move, Space to jump.  
+- Player 1: Left/Right arrow keys to move, Up to jump.  
 - Player 2: A/D to move, W to jump.  
 - Work together to overcome challenges.  
 - Players can jump on crates, platforms, and even on each other.  
